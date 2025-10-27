@@ -1,0 +1,31 @@
+CREATION OF VIEWS AND ASSERTIONS.
+
+QUESTION
+
+i)Create a table named Bank with the following attributes
+-bankcode (To be set as Primary Key, type= varchar(3))
+-bankname (Should not beNULL)
+-headoffice
+-branches (Integer value greater tha nZero)
+Populate the database.
+
+Make sure that all constraints are working properly.
+
+All constraints have to be set after creating the table.
+
+ii)Create a table named Branch with the following attribute
+-branchid (To be set as PrimaryKey)
+-branchname (Set Default value as ‘New Delhi’) –
+bankid (Foreign Key:- Refers to bank code of Bank table)
+Populate the database. Make sure that all constraints are working properly
+
+iii) Delete the bank with bank code ‘SBT’ and make sure that the corresponding entries
+are getting deleted from the related tables.
+
+iv) Drop the Primary Key in branch using ALTER command
+
+v) Create a View named bank_head office to hold the details of all bank whose head
+office at Ernakulam.
+
+vi) Create a View named bank_branch to hold the details of all bank who have branches
+at kottayam.
