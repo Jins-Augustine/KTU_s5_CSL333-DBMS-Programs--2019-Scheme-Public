@@ -1,0 +1,3 @@
+Questions:   Cursor  
+1)Create bank_details (accno, name, balance, adate).
+ Calculate the interest of the amount  and insert into a new table with fields (accno, interest). Interest= 0.08*balance. 
