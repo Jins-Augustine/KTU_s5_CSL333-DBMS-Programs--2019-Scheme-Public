@@ -1,0 +1,6 @@
+Questions:
+
+1.	PL/SQL program to find factorials of a number.
+2.	PL/SQL program to find the greatest of three numbers.
+3.	PL/SQL program to implement a calculator.
+4.	PL/SQL program to generate fibonacci series.
